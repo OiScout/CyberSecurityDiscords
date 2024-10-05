@@ -1,5 +1,5 @@
 ### Conferences ### 
-DEFCON - https://discord.gg/defcon
+DEFCON - https://discord.gg/defcon 
 Wild West Hackin' Fest - https://discord.gg/Tk4s6mHb
 Blue Team Con - https://discord.com/invite/qkmq6MdK48
 
