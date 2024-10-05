@@ -19,13 +19,14 @@
   Flipper Devices - https://discord.gg/A6aREqVN  <br/>
   FeeWili - https://discord.gg/8Rs2dxPs  <br/>
   Hak5 - https://discord.gg/GhWcbyDa  <br/>
+  Rabbit-Labs - https://discord.gg/X6rXEbAz  <br/>
 
 
 ### - Software - ###
   Kali Linux - https://discord.gg/BcxkpXQt  <br/>
   Velociraptor - https://discord.com/invite/YAU3vRE  <br/>
   PortSwigger Burp - https://discord.gg/portswigger  <br/>
-
+  
 
 ### - Training - ###
   TryHackMe - https://discord.gg/5kWuWYqv  <br/>
