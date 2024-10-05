@@ -22,6 +22,7 @@
 
 
 ### - Software - ###
+  Kali Linux - https://discord.gg/BcxkpXQt  <br/>
   Velociraptor - https://discord.com/invite/YAU3vRE  <br/>
   PortSwigger Burp - https://discord.gg/portswigger  <br/>
 
